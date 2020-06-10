@@ -15,7 +15,7 @@ To play the game, simply click on
 
 `Clone or Download > Download ZIP`
 
-After that, you should be able to start the .exe file.
+After that, you should be able to start the Onlab.exe file.
 
 Note: your antivirus might not like the project, it is possible that you need to disable it if you want to play. (No viruses I promise)
 
