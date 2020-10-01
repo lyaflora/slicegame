@@ -13,7 +13,7 @@ There are currently only 6 demo levels, but more content is coming soon!
 The game is currently only available on a Windows 64-bit OS.
 To play the game, simply click on
 
-`Clone or Download > Download ZIP`
+`⬇ Code > Download ZIP`
 
 After downloading, you should be able to unzip and start the Onlab.exe file.
 
