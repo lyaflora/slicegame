@@ -3,6 +3,7 @@
 
 This game was made for a university project.
 It is a logical game demo with 6 simple levels.
+
 This was the very beginning of my game development history.
 
 ## How to launch
